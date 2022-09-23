@@ -5,4 +5,4 @@ while n>0:
     n=n//10
     if x>s:
         s=x
-print(s)        
+print(s)
